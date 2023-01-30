@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.hompe-page {
+    padding: 20px;
+}
+
+.hompe-page-header-image {
+    width: 80vw;
+}
+
+.home-page-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #183b56;
+}
+
+.home-page-discription {
+    color: #616e7c;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.home-page-image {
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+}
+
+.advancedtechnologies-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.advancedtechnologies-card {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+
+.advancedtechnologies-heading {
+    font-size: 23px;
+    color: #183b56;
+    font-family: "Bree Serif";
+}
+
+.advancedtechnologies-discription {
+    color: #575b2a;
+    font-family: "Roboto";
+}
+
+.advancedtechnologies-button {
+    font-family: "Roboto";
+    width: 130px;
+    background-color: #ffffff;
+    height: 40px;
+    color: #171f46;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 5px;
+    border-color: #d7dfe9;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: #ffffff;
+    font-family: "Caveat";
+    font-size: 36px;
+    padding: 20px;
+    width: 200px;
+}
+
+.diwali-bottom-section {
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-item-card {
+    background-color: #ffffff;
+    padding: 16px;
+    margin: 15px;
+    border-radius: 10px;
+    width: 140px;
+
+}
+
+.diwali-item-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-item-card-discription {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-item-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.meals-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.meals-card {
+    background-color: #f6c56e;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+
+.meals-heading {
+    font-size: 23px;
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+.meals-discription {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.meals-button {
+    font-family: "Roboto";
+    width: 130px;
+    background-color: #ffffff;
+    height: 40px;
+    color: #171f46;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 5px;
+    border-color: #d7dfe9;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.news-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.news-card {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 25px;
+}
+
+.news-category {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.news-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.news-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.news-button {
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 109px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+}
